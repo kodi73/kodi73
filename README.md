@@ -34,6 +34,17 @@ A simple Retrieval-Augmented Generation (RAG) system that uses local documents a
 
 ---
 
+## 🧑🏼‍💻Tech Stack Badges
+
+<img src="https://skillicons.dev/icons?i=java,python,linux,git" />
+
+---
+
+## Other Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vaultboy73)
+
+
 ## 📫 Contact
 
 - GitHub: https://github.com/kodi73
